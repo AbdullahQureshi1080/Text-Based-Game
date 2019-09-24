@@ -1,0 +1,16 @@
+****************************
+" Hey Frodo !"
+          
+       - Hey Sam !
+ 
+" Where are you going "
+
+       - Towards Bree
+
+" Yeah I heard everything what Gandalf told you about .... So I chased you so I could go with you too "
+
+       - But Sam , gandalf told me to go alone !!!
+
+" I will help you Frodo . Please Frodo ,please take me with you "
+       
+****************************      
